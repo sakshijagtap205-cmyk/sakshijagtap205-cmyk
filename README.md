@@ -6,11 +6,44 @@
 ![](https://streak-stats.demolab.com/?user=Sakshi jagtap&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sakshi jagtap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Sakshi jagtap&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-I'm Currently Working on Generalized Data Structure  Library  using C++<br>I'm looking to collaborate on Java, Web Development and Open Source Projects<br>I'm currently learning<br>Java Full Stack Development and Cloud Computing Python AIIML , GEN-AI, Deep Learning ,Data Science<br>Ask me about<br>Java, C, C++, HTML, JavaScript, SpringBoot,MongoDb, Git and GitHub ,MySQL, Oracle (PL/SQL), Microsoft SQL Server<br>Fun fact<br>I enjoy building projects and learning new technologies.
+## 👩‍💻 About Me
+
+I am a Computer Science Engineering student with a strong interest in Software Development, Artificial Intelligence, and Cloud Computing.
+
+### 🔭 Currently Working On
+- Generalized Data Structure Library using C++
+- Java and Python-based development projects
+- Strengthening Data Structures & Algorithms
+
+### 🌱 Currently Learning
+- Java & Spring Boot
+- REST APIs & Microservices
+- Cloud Computing
+- Python, Data Science & Machine Learning
+- Deep Learning & Generative AI
+
+### 🛠️ Technical Skills
+- **Languages:** Java, Python, C, C++, SQL
+- **Backend:** Spring Boot, REST APIs, Apache Tomcat
+- **Databases:** MySQL, MongoDB, Oracle
+- **AI/ML:** Machine Learning, Deep Learning, TensorFlow, Keras, PyTorch
+- **Tools:** Git, GitHub, Docker, VS Code, Jupyter
+
+### 🤝 Open to Collaborate On
+- Java & Backend Development
+- Web Development
+- AI/ML Projects
+- Open Source Projects
+
+### 🎯 Career Goal
+Looking for an entry-level Software Engineering opportunity where I can apply my programming, problem-solving, and development skills while contributing to real-world projects.
+
+### 💡 Interests
+Software Development • AI/ML • Cloud Computing • Problem Solving • Open Source
+
+### ⚡ Fun Fact
+I enjoy turning ideas into working projects and continuously learning new technologies.
 
 
 # 💻 Tech Stack:
@@ -23,7 +56,6 @@ I'm Currently Working on Generalized Data Structure  Library  using C++<br>I'm l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshijagtap205-cmyk&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180"/>
 </p>
 
-[![](https://komarev.com/ghpvc/?username=Sakshi jagtap&icon=0&color=0)](https://visitcount.itsvg.in)
-
+https://sakshi-jagtap.my.canva.site/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
