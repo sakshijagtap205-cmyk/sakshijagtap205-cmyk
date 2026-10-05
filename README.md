@@ -28,7 +28,7 @@ I am a Computer Science Engineering student with a strong interest in Software D
 - **Backend:** Spring Boot, REST APIs, Apache Tomcat
 - **Databases:** MySQL, MongoDB, Oracle
 - **AI/ML:** Machine Learning, Deep Learning, TensorFlow, Keras, PyTorch
-- **Tools:** Git, GitHub, Docker, VS Code, Jupyter
+- **Tools:** Git, GitHub, VS Code, Jupyter
 
 ### 🤝 Open to Collaborate On
 - Java & Backend Development
@@ -57,5 +57,4 @@ I enjoy turning ideas into working projects and continuously learning new techno
 </p>
 
 https://sakshi-jagtap.my.canva.site/
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
